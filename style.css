@@ -11,3 +11,8 @@ body{
     width: 150px;
 
 }
+h2{
+    color: rgb(124, 124, 228);
+    padding: 30px;
+    font-weight: bold;
+}
